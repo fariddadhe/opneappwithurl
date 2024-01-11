@@ -1,9 +1,11 @@
+
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
     "package_name": "com.saltanera.hablunjetpack",
-    "sha256_cert_fingerprints":
-    ["B8:3A:6E:ED:9E:B7:C2:16:F1:7B:79:9A:D9:C1:A7:B1:6D:13:A2:96:FF:9F:B4:CB:EF:03:E1:BF:50:71:3C:A8"]
+    "sha256_cert_fingerprints": [
+      "B8:3A:6E:ED:9E:B7:C2:16:F1:7B:79:9A:D9:C1:A7:B1:6D:13:A2:96:FF:9F:B4:CB:EF:03:E1:BF:50:71:3C:A8",
+    ]
   }
 }]
