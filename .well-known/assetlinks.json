@@ -1,9 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.example.hablunjetpack",
-      "sha256_cert_fingerprints":
-      ["12:05:2E:2D:43:B3:8B:46:D1:22:49:7F:F9:82:5A:B4:00:1A:19:33:75:95:CA:3E:1E:37:3D:02:A0:38:13:1F"]
-    }
-  }]
