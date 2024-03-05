@@ -4,8 +4,7 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.saltanera.hablunjetpack",
-    "sha256_cert_fingerprints": [
-      "B8:3A:6E:ED:9E:B7:C2:16:F1:7B:79:9A:D9:C1:A7:B1:6D:13:A2:96:FF:9F:B4:CB:EF:03:E1:BF:50:71:3C:A8",
-    ]
+    "sha256_cert_fingerprints":
+    ["5B:54:98:6A:54:C2:85:D6:3A:BD:09:CD:18:48:E1:69:29:D9:90:60:95:0B:DA:F9:0B:D4:77:8D:C9:17:D9:7C"]
   }
 }]
